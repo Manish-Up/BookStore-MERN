@@ -1,3 +1,5 @@
 export const PORT= 5555;
 
-export const mongoDBURL = 'mongodb+srv://mupadhyay:iTo4KOKAxY4ptsJp@gyani.f4ybvqb.mongodb.net/BookStore?retryWrites=true&w=majority'
+export const mongoDBURL ='mongodb://127.0.0.1:27017/BookStore':
+
+//Use Your Own Database link here 
